@@ -24,3 +24,5 @@
 // * uses its own keyboard interrupt handler to handle multiple keypresses
 //   and to implement responsive controls
 /////////////////////////////////////////////////////////////////////////////
+
+![Screenshot](Car_game_screenshot_GAME_EXE.png)
